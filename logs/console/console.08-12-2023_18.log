@@ -1,0 +1,13 @@
+08/12/2023 (18:55:58) -    INFO - Loading plugins...
+08/12/2023 (18:55:58) -   ERROR - Traceback (most recent call last):
+  File "E:\2023ClassicParade\iCraft\core\server.py", line 82, in get_url
+    "salt": hashlib.md5("self.factory.salt").hexdigest(),
+TypeError: Unicode-objects must be encoded before hashing
+
+08/12/2023 (18:55:58) -    INFO - World 'default' Booted.
+08/12/2023 (18:55:58) -    INFO - 298 garbage objects collected, 0 were uncollected.
+08/12/2023 (18:55:59) -    INFO - There are 0 users on the server
+08/12/2023 (18:55:59) -    INFO - default: 
+08/12/2023 (18:56:15) -    INFO - Saving server metas...
+08/12/2023 (18:56:15) -    INFO - Flushing worlds to disk...
+08/12/2023 (18:56:15) -    INFO - Saving: worlds/default

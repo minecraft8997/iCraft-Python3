@@ -1,0 +1,16 @@
+08/13/2023 (12:49:39) -    INFO - Loading plugins...
+08/13/2023 (12:49:39) -    INFO - World 'default' Booted.
+08/13/2023 (12:49:39) -    INFO - 298 garbage objects collected, 0 were uncollected.
+08/13/2023 (12:49:40) -    INFO - Heartbeat Sent. Your URL (saved to docs/SERVERURL): {"errors":[["Port 25565 not open, you may need to port forward it."]],"response":"","status":"fail"}
+08/13/2023 (12:49:40) -    INFO - There are 0 users on the server
+08/13/2023 (12:49:40) -    INFO - default: 
+08/13/2023 (12:49:44) -    INFO - 127.0.0.1 is joining world worlds/default
+08/13/2023 (12:49:44) -    INFO - (127.0.0.1:56377) Connected, as 'deewend'
+08/13/2023 (12:49:45) -    INFO - (127.0.0.1:56377) Disconnected 'deewend'
+08/13/2023 (12:50:07) -    INFO - 127.0.0.1 is joining world worlds/default
+08/13/2023 (12:50:07) -    INFO - (127.0.0.1:56385) Connected, as 'deewend'
+08/13/2023 (12:50:07) -    INFO - (127.0.0.1:56385) Disconnected 'deewend'
+08/13/2023 (12:50:39) -    INFO - World 'default' has been saved.
+08/13/2023 (12:50:40) -    INFO - Heartbeat Sent. Your URL (saved to docs/SERVERURL): {"errors":[["Port 25565 not open, you may need to port forward it."]],"response":"","status":"fail"}
+08/13/2023 (12:50:40) -    INFO - There are 0 users on the server
+08/13/2023 (12:50:40) -    INFO - default: 

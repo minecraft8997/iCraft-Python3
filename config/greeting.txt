@@ -1,0 +1,7 @@
+Welcome to our server, please read the /rules
+We're powered by iCraft: Unversioned
+Modified to support Python 3
+
+This server is a part of McLord's Server Software Parade
+Happy anniversary, ClassiCube!
+Please join our Discord: &fhttps://mclord.ru/discord

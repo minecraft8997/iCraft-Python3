@@ -1,0 +1,5 @@
+08/13/2023 (14:02:15) -    INFO - Loading plugins...
+08/13/2023 (14:02:15) -    INFO - World 'default' Booted.
+08/13/2023 (14:02:15) -    INFO - 298 garbage objects collected, 0 were uncollected.
+08/13/2023 (14:02:15) -   ERROR - Something is already running on Port 25565
+08/13/2023 (14:02:16) -    INFO - Heartbeat Sent. Your URL (saved to docs/SERVERURL): {"errors":[["Port 25565 not open, you may need to port forward it."]],"response":"","status":"fail"}

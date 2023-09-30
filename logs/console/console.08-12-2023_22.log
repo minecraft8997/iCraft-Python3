@@ -1,0 +1,7 @@
+08/12/2023 (22:07:49) -    INFO - Loading plugins...
+08/12/2023 (22:07:49) -    INFO - World 'default' Booted.
+08/12/2023 (22:07:49) -    INFO - 298 garbage objects collected, 0 were uncollected.
+08/12/2023 (22:07:49) -   ERROR - Something is already running on Port 25565
+08/12/2023 (22:07:51) -    INFO - Heartbeat Sent. Your URL (saved to docs/SERVERURL): {"errors":[["Port 25565 not open, you may need to port forward it."]],"response":"","status":"fail"}
+08/12/2023 (22:07:51) -    INFO - 127.0.0.1 is joining world worlds/default
+08/12/2023 (22:07:52) -    INFO - (127.0.0.1:51968) Connected, as 'deewend'

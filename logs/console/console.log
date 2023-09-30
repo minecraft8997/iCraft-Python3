@@ -1,0 +1,13 @@
+09/30/2023 (18:30:28) -    INFO - Loading plugins...
+09/30/2023 (18:30:29) -    INFO - World 'default' Booted.
+09/30/2023 (18:30:29) -    INFO - 298 garbage objects collected, 0 were uncollected.
+09/30/2023 (18:30:30) -    INFO - Heartbeat Sent. Your URL (saved to docs/SERVERURL): {"errors":[["Port 25565 not open, you may need to port forward it."]],"response":"","status":"fail"}
+09/30/2023 (18:30:30) -    INFO - There are 0 users on the server
+09/30/2023 (18:30:30) -    INFO - default: 
+09/30/2023 (18:30:53) -    INFO - 127.0.0.1 is joining world worlds/default
+09/30/2023 (18:30:53) -    INFO - (127.0.0.1:63121) Connected, as 'deewend'
+09/30/2023 (18:30:53) -    INFO - (127.0.0.1:63121) deewend just used: /clients
+09/30/2023 (18:31:23) -    INFO - (127.0.0.1:63121) Disconnected 'deewend'
+09/30/2023 (18:31:26) -    INFO - Saving server metas...
+09/30/2023 (18:31:26) -    INFO - Flushing worlds to disk...
+09/30/2023 (18:31:26) -    INFO - Saving: worlds/default

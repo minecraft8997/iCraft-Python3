@@ -1,0 +1,27 @@
+08/13/2023 (13:55:19) -    INFO - Loading plugins...
+08/13/2023 (13:55:19) -    INFO - World 'default' Booted.
+08/13/2023 (13:55:19) -    INFO - 298 garbage objects collected, 0 were uncollected.
+08/13/2023 (13:55:19) -    INFO - Heartbeat Sent. Your URL (saved to docs/SERVERURL): {"errors":[["Port 25565 not open, you may need to port forward it."]],"response":"","status":"fail"}
+08/13/2023 (13:55:20) -    INFO - There are 0 users on the server
+08/13/2023 (13:55:20) -    INFO - default: 
+08/13/2023 (13:55:21) -    INFO - 127.0.0.1 is joining world worlds/default
+08/13/2023 (13:55:21) -    INFO - (127.0.0.1:58531) Connected, as 'deewend'
+08/13/2023 (13:55:22) -    INFO - (127.0.0.1:58531) deewend just used: /clients
+08/13/2023 (13:55:31) -    INFO - deewend: test
+08/13/2023 (13:55:35) -    INFO - deewend: lol
+08/13/2023 (13:56:19) -    INFO - World 'default' has been saved.
+08/13/2023 (13:56:20) -    INFO - Heartbeat Sent. Your URL (saved to docs/SERVERURL): {"errors":[["Port 25565 not open, you may need to port forward it."]],"response":"","status":"fail"}
+08/13/2023 (13:56:20) -    INFO - There are 1 users on the server
+08/13/2023 (13:56:20) -    INFO - default: deewend
+08/13/2023 (13:56:45) -    INFO - 127.0.0.1 is joining world worlds/default
+08/13/2023 (13:56:45) -    INFO - (127.0.0.1:58570) Connected, as 'deewend1'
+08/13/2023 (13:56:45) -    INFO - (127.0.0.1:58570) deewend1 just used: /clients
+08/13/2023 (13:57:36) -    INFO - World 'default' has been saved.
+08/13/2023 (13:57:37) -    INFO - Heartbeat Sent. Your URL (saved to docs/SERVERURL): {"errors":[["Port 25565 not open, you may need to port forward it."]],"response":"","status":"fail"}
+08/13/2023 (13:57:37) -    INFO - There are 2 users on the server
+08/13/2023 (13:57:37) -    INFO - default: deewend, deewend1
+08/13/2023 (13:57:38) -    INFO - (127.0.0.1:58570) Disconnected 'deewend1'
+08/13/2023 (13:57:38) -    INFO - (127.0.0.1:58531) Disconnected 'deewend'
+08/13/2023 (13:57:38) -    INFO - Saving server metas...
+08/13/2023 (13:57:38) -    INFO - Flushing worlds to disk...
+08/13/2023 (13:57:38) -    INFO - Saving: worlds/default
